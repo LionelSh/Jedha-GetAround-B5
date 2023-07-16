@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+typing
+pandas
+gunicorn
+openpyxl
+scikit-learn == 1.2.2
+python-multipart
+fsspec
+s3fs
+joblib
