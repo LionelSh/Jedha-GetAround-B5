@@ -2,7 +2,7 @@
 
 This Repository illustrates two issues
 
-The first is a case stusy of what is the optimum delay threshold that should be set to avoid custumer dissatisfaction and revenu loss simultaneously
+The first is a case study of what is the optimum delay threshold that should be set to avoid custumer dissatisfaction and revenu loss simultaneously
 
 The second is a prediction of the prices <a href=""></a>
 
